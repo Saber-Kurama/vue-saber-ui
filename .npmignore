@@ -1,14 +1,14 @@
 build/
-dist/
 node_modules/
 packages/
-pay/
+play/
 src/
+doc-md/
 
 components.json
 play.config.js
 lerna.json
-
+.npmignore
 .babelrc
 .bashrc
 .editorconfig

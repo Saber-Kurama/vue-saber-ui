@@ -18,6 +18,6 @@ then
 
   # publish
   git push origin refs/tags/v$VERSION
-  git push origin master
+  git push origin
   npm publish
 fi
