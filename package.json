@@ -1,11 +1,11 @@
 {
   "name": "vue-saber-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "创建一个 vue 的UI",
   "main": "dist/vue-saber-ui.js",
   "scripts": {
     "pub": "sh build/release.sh",
-    "dist": "node build/build.js",  
+    "dist": "node build/build.js",
     "play": "poi --config play.config.js",
     "build:play": "poi build --config play.config.js"
   },
