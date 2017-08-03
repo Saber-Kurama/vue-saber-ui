@@ -1,6 +1,7 @@
 import { play } from 'vue-play'
 import Vue from 'vue'
-import Button from '../packages/button/src'
+import Button from './mybutton'
+
 
 Vue.component('Button', Button);
 

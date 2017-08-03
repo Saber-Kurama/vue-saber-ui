@@ -1,0 +1,13 @@
+  @import "../node_modules/vue-saber-ui/src/button/src/button.css";  
+.root{
+      composes: root from "vue-saber-ui/src/button/src/button.css";  
+    /* font-size: 24px; */
+    color: yellow;  
+}    
+ /* .aa{
+     composes: aa from "vue-saber-ui/src/button/src/button.css";
+     
+     
+}   */
+
+
